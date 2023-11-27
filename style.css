@@ -341,7 +341,7 @@ nav.fixed-top .nav-item .nav-link:before {
 ==================================================*/
 
 .banner {
-    background-image: url('perspective_matte-14-264x264.png');
+    background-image: url('logoo.png');
     height: 100vh;
     width: 100%;
     -webkit-background-size: cover;
@@ -355,7 +355,7 @@ nav.fixed-top .nav-item .nav-link:before {
 }
 
 .roller {
-    background-image: url('perspective_matte-14-264x264.png');
+    background-image: url('logoo.png');
         height: 100vh;
     width: 100%;
     -webkit-background-size: cover;
